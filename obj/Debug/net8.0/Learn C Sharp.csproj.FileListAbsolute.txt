@@ -1,0 +1,14 @@
+D:\Abdul_Rehman\C_Sharp_Learning\Learn C Sharp\bin\Debug\net8.0\Learn C Sharp.exe
+D:\Abdul_Rehman\C_Sharp_Learning\Learn C Sharp\bin\Debug\net8.0\Learn C Sharp.deps.json
+D:\Abdul_Rehman\C_Sharp_Learning\Learn C Sharp\bin\Debug\net8.0\Learn C Sharp.runtimeconfig.json
+D:\Abdul_Rehman\C_Sharp_Learning\Learn C Sharp\bin\Debug\net8.0\Learn C Sharp.dll
+D:\Abdul_Rehman\C_Sharp_Learning\Learn C Sharp\bin\Debug\net8.0\Learn C Sharp.pdb
+D:\Abdul_Rehman\C_Sharp_Learning\Learn C Sharp\obj\Debug\net8.0\Learn C Sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdul_Rehman\C_Sharp_Learning\Learn C Sharp\obj\Debug\net8.0\Learn C Sharp.AssemblyInfoInputs.cache
+D:\Abdul_Rehman\C_Sharp_Learning\Learn C Sharp\obj\Debug\net8.0\Learn C Sharp.AssemblyInfo.cs
+D:\Abdul_Rehman\C_Sharp_Learning\Learn C Sharp\obj\Debug\net8.0\Learn C Sharp.csproj.CoreCompileInputs.cache
+D:\Abdul_Rehman\C_Sharp_Learning\Learn C Sharp\obj\Debug\net8.0\Learn C Sharp.dll
+D:\Abdul_Rehman\C_Sharp_Learning\Learn C Sharp\obj\Debug\net8.0\refint\Learn C Sharp.dll
+D:\Abdul_Rehman\C_Sharp_Learning\Learn C Sharp\obj\Debug\net8.0\Learn C Sharp.pdb
+D:\Abdul_Rehman\C_Sharp_Learning\Learn C Sharp\obj\Debug\net8.0\Learn C Sharp.genruntimeconfig.cache
+D:\Abdul_Rehman\C_Sharp_Learning\Learn C Sharp\obj\Debug\net8.0\ref\Learn C Sharp.dll
